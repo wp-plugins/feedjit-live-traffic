@@ -1,10 +1,10 @@
-=== Feedjit Live Traffic Widget ===
+=== Feedjit Live Traffic Feed ===
 Contributors: joelcj91
 Donate link: http://www.joelsays.com/donation/
 Tags: feedjit, live, traffic, live traffic, live users, online users, browsing users, traffic widget, feedjit widget
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPL v3
 License URI: http://www.gnu.org/copyleft/gpl.html
 
@@ -61,6 +61,9 @@ Big Yes!
 = 1.0.0 =
 * Plugin goes public with basic features.
 
+= 1.0.1 =
+* Initial commit fail fixed.
+
 
 == Screenshots ==
 
@@ -69,4 +72,4 @@ Big Yes!
 
 == Upgrade Notice ==
 
-* Plugin goes public with basic features.
+* Initial commit fail fixed.

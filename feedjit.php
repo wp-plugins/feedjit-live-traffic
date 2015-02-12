@@ -3,14 +3,13 @@
  * Plugin Name:       Feedjit Live Traffic Feed
  * Plugin URI:        http://www.jkshoppie.com/product/feedjit/
  * Description:       Best live traffic widget plugin. Add a good looking widget to show details of live users on your site.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Joel James
  * Author URI:        http://www.joelsays.com/about-me/
  * Text Domain:       feedjit
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  *
- * @since             1.0.0
  * @package           FEEDJIT
  */
  
