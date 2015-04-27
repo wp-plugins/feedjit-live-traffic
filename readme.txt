@@ -3,8 +3,8 @@ Contributors: joelcj91
 Donate link: http://www.joelsays.com/donation/
 Tags: feedjit, live, traffic, live traffic, live users, online users, browsing users, traffic widget, feedjit widget
 Requires at least: 3.0
-Tested up to: 4.1
-Stable tag: 1.0.1
+Tested up to: 4.2
+Stable tag: 1.0.2
 License: GPL v3
 License URI: http://www.gnu.org/copyleft/gpl.html
 
@@ -28,8 +28,6 @@ You can customize with unlimited colors to match your site theme or color scheme
 
 = Visit Feedjt Official Website <a href="http://feedjit.com/">here</a> =
 
-
-= Visit Developer Website <a href="http://www.jkshoppie.com/product/feedjit-live-traffic-feed/">here</a> =
 
 == Installation ==
 
@@ -58,11 +56,14 @@ Big Yes!
 
 == Changelog ==
 
-= 1.0.0 =
-* Plugin goes public with basic features.
+= 1.0.2 =
+* Fixed issues when re-activating the plugin.
 
 = 1.0.1 =
 * Initial commit fail fixed.
+
+= 1.0.0 =
+* Plugin goes public with basic features.
 
 
 == Screenshots ==
@@ -72,4 +73,4 @@ Big Yes!
 
 == Upgrade Notice ==
 
-* Initial commit fail fixed.
+* Fixed issues when re-activating the plugin.
